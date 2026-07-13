@@ -35,4 +35,6 @@ The primary objective was to create a decision support system backed by a Data M
 *   Diogo Silva
 <<<<<<< HEAD
 *   André Tavares
+=======
+*   André Tavares
 >>>>>>> 8bf491f488bac7c4e69f0a9f44ead1e22c9d3129
