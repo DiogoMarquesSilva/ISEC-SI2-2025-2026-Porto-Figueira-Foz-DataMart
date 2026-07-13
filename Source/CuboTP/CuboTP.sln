@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "CuboTP", "CuboTP\CuboTP.dwproj", "{27CD7D0D-0A1B-D484-AF16-EE63B2E4093D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CD7D0D-0A1B-D484-AF16-EE63B2E4093D}.Development|Default.ActiveCfg = Development
+		{27CD7D0D-0A1B-D484-AF16-EE63B2E4093D}.Development|Default.Build.0 = Development
+		{27CD7D0D-0A1B-D484-AF16-EE63B2E4093D}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72E69E8A-61CA-4A06-9F9F-294C7CBF8D61}
+	EndGlobalSection
+EndGlobal
