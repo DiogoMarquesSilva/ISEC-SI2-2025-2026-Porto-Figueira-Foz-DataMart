@@ -33,5 +33,4 @@ The primary objective was to create a decision support system backed by a Data M
 ### Authors
 
 *   Diogo Silva
-<<<<<<< HEAD
 *   André Tavares
